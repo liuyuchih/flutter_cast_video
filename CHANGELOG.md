@@ -1,3 +1,7 @@
+## 1.2.11
+
+* Fix Unresolved reference: R (AGP 8+) on Android
+
 ## 1.0.0
 
 * First version.
